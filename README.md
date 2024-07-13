@@ -1,2 +1,6 @@
-# Augmented-reality-model-of-Electronic-field
-This model contains the AR model of Electronic field and few major descriptions of the electronic field. Module created by using unity and c++ language majorly.
+# This repository contains AR lessons created using Unity.
+
+This repository contains interactive lessons in WebXR 
+
+- **Electric Field**: Visualize an electromagnetic field.
+  [Launch Lesson](https://webxr.run/w3o6V2nWAl35)
