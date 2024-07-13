@@ -1,0 +1,36 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "zcv"
+  }
+  digests {
+    sha256: "%\240V\001}\003\235\240\313E\037ZY\235\207\260\205\345\231\330f\267\260\bV$Nu\323\341\344n"
+  }
+}
+library {
+  maven_library {
+    artifactId: "unityandroidpermissions"
+  }
+  digests {
+    sha256: "\304\275\200/\267\017\253\2569\233,4\201\275\362\370\021i,\2045\246\3123t\313N\032\270\017h\272"
+  }
+}
+library {
+  digests {
+    sha256: "P\372\307\263\236\363D\\\263\tJ\3072M_\000\n\371\245\305N5\364\24704\257\rS\226\370Z"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 2
+}

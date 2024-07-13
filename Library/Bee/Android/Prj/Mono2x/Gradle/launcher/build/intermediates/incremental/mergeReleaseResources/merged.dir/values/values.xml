@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="unitySurfaceView" type="id"/>
+    <string name="FreeformWindowOrientation_landscape"/>
+    <string name="FreeformWindowOrientation_portrait"/>
+    <string name="FreeformWindowSize_maximize"/>
+    <string name="FreeformWindowSize_phone"/>
+    <string name="FreeformWindowSize_tablet"/>
+    <string name="app_name">Electronic Field</string>
+    <string name="erAgeCheck">Age Check</string>
+    <string name="erAgeCheckFailMessage">Unfortunately you are not allowed to use this feature at this time. (Them\'s the rules).</string>
+    <string name="erAgeCheckFailTitle">Sorry People</string>
+    <string name="erAudioPermissionDetail">If you\'d like us to include audio in your recording we just need permission.</string>
+    <string name="erAudioPermissionRequired">Audio Permission</string>
+    <string name="erBoringLegalBit">THE BORING LEGAL BIT</string>
+    <string name="erCameraPermissionDetail">This area requires access to the camera to function.</string>
+    <string name="erCameraPermissionRequired">Camera Access Required</string>
+    <string name="erCancel">Cancel</string>
+    <string name="erCountry">COUNTRY</string>
+    <string name="erDateOfBirth">DATE OF BIRTH</string>
+    <string name="erDevicePermissionsFail">Device permissions do not permit download.</string>
+    <string name="erDownloadingLabel">Downloading...</string>
+    <string name="erExternalStoragePermissionDetail">Access to external storage is required to save or share snapshots.</string>
+    <string name="erExternalStoragePermissionRequired">External Storage Access</string>
+    <string name="erFileNotSupported">Unfortunately the file is not supported by your device.</string>
+    <string name="erFreeSpaceRequest">You need free space on your internal storage or SD card</string>
+    <string name="erInvalidURL">Invalid URL</string>
+    <string name="erLegalText">To comply with international privacy laws we need you to confirm your date of birth and country. We won\'t store or share this (not even with our Mums).</string>
+    <string name="erMediaSaved">Saved!</string>
+    <string name="erNonUS">non-US</string>
+    <string name="erNotSet">Not set</string>
+    <string name="erOK">OK</string>
+    <string name="erOver13">Over 13</string>
+    <string name="erOver15">Over 15</string>
+    <string name="erOver16">Over 16</string>
+    <string name="erOver18">Over 18</string>
+    <string name="erOver21">Over 21</string>
+    <string name="erPhotoInGallery">You should be able to find this file in your Gallery.</string>
+    <string name="erPleaseCheckWifi">Please check that you have a good Wifi or 3G connection.</string>
+    <string name="erRetry">Retry</string>
+    <string name="erSaveButton">SAVE</string>
+    <string name="erSavedLabel">SAVED</string>
+    <string name="erSaving">Saving...</string>
+    <string name="erShareButton">SHARE</string>
+    <string name="erShareGifUsing">Share gif using</string>
+    <string name="erShareImageUsing">Share image using</string>
+    <string name="erUS">US</string>
+    <string name="erUnableToDownload">Unable to download</string>
+    <string name="erUnableToSave">Unable to Save</string>
+    <string name="erUnder13">Under 13</string>
+    <string name="erUnsupportedFile">Unsupported File</string>
+    <string name="erValueNotURL">The value specified is not a valid URL.</string>
+    <string name="game_view_content_description">Game view</string>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+</style>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+	<item name="android:windowBackground">@android:color/black</item>
+</style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+</style>
+</resources>
